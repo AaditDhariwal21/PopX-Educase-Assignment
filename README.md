@@ -1,7 +1,7 @@
 # PopX Frontend
 
 A pixel-perfect mobile app interface built with React and Tailwind CSS, based on an Adobe design mockup.
-This is and internsip assignment for Educase
+This is an internsip assignment for Educase
 
 ## Tech Stack
 
